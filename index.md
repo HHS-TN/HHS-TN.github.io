@@ -1,4 +1,4 @@
-# Technische Natuurkunde - Haagse Hogeschool 
+# Technische Natuurkunde - Haagse Hogeschool
 
 Hier staan de github-repositories van de docenten van TN. 
 
