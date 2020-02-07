@@ -17,4 +17,3 @@ Hier staan de github-repositories van de docenten van TN.
 # Links
 * [Angstrom - studievereniging op Git](https://github.com/Studievereniging-Angstrom)
 * [Angstrom - studievereniging op Git (account)](https://github.com/Anders-Jonas-Angstrom)
-
