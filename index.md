@@ -4,7 +4,7 @@ Hier staan de github-repositories van de docenten van TN.
 
 # Repositories
 {% for repository in site.github.public_repositories %}
-  {% if repository.name != "HHS-TN.github.io" %}
+  {% if repository.name != "HHS-TN.github.io" and repository.name != "TIS-TN-METR2-code" and repository.name != "TIS-TN-ONDZ" %}
   * [{{ repository.name }}]({{ repository.html_url }})
   {% endif %}
 {% endfor %}
